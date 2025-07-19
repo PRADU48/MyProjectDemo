@@ -1,3 +1,3 @@
 # MyProjectDemo
-This is my first Git Repository
-Author - Pradhumn Pawar
+<p>This is my first Git Repository.</p>
+<p>Author - Pradhumn Pawar</p>
